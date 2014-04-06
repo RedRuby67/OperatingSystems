@@ -1,0 +1,45 @@
+CS3753 (Operating Systems)
+Spring 2014
+University of Colorado Boulder
+Programming Assignment 3
+
+
+---Folders---
+tests_output - The outputs from the test cases.
+
+---Executables---
+./testscript - A simple bash script for running the test cases
+./cpu - A simple program for statistically calculating pi
+./io - A simple program for statistically calculating pi using
+             a specific scheduling policy
+./mixed - Runs the code from both cpu-process and io-process
+
+Scheduling Policy:
+SCHED_OTHER
+SCHED_RR
+SCHED_FIFO
+
+Number of Processes:
+LOW		10
+MEDIUM	60
+HIGH	100
+
+---Examples---
+Build:
+ make
+
+Clean:
+ make clean
+
+cpu:
+ ./cpu <Scheduling Policy> <Number Of Processes>
+
+ioprocesses:
+ ./ioprocesses <Scheduling Policy> <Number Of Processes>
+
+ mixed:
+ ./mixed <Scheduling Policy> <Number of Processes>
+
+testscript:
+ sudo ./testscript
+

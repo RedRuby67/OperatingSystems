@@ -1,0 +1,3 @@
+realtime=1.39 usertime=2.50 kerneltime=0.02 CPU=182% i-switched=821 v-switched=121
+realtime=1.39 usertime=2.52 kerneltime=0.03 CPU=182% i-switched=805 v-switched=121
+realtime=1.51 usertime=2.54 kerneltime=0.01 CPU=168% i-switched=870 v-switched=121

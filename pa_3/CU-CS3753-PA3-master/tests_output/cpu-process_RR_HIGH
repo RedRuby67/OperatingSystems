@@ -1,0 +1,17 @@
+wall=3.05 user=3.06 system=0.03 CPU=101% i-switched=3 v-switched=107
+wall=3.16 user=2.86 system=0.03 CPU=91% i-switched=2 v-switched=104
+wall=1.79 user=4.68 system=0.06 CPU=265% i-switched=2 v-switched=107
+wall=2.12 user=3.58 system=0.05 CPU=171% i-switched=2 v-switched=105
+wall=1.72 user=4.85 system=0.11 CPU=287% i-switched=2 v-switched=108
+wall=2.98 user=3.07 system=0.05 CPU=104% i-switched=2 v-switched=107
+Command exited with non-zero status 130
+wall=3.27 user=0.04 system=0.00 CPU=1% i-switched=2 v-switched=6
+realtime=3.76 usertime=4.21 kerneltime=0.04 CPU=112% i-switched=2 v-switched=105
+realtime=3.08 usertime=4.26 kerneltime=0.06 CPU=140% i-switched=1 v-switched=105
+realtime=2.51 usertime=4.47 kerneltime=0.02 CPU=178% i-switched=10 v-switched=211
+Command exited with non-zero status 1
+realtime=0.00 usertime=0.00 kerneltime=0.00 CPU=0% i-switched=5 v-switched=1
+Command exited with non-zero status 1
+realtime=0.00 usertime=0.00 kerneltime=0.00 CPU=0% i-switched=4 v-switched=1
+Command exited with non-zero status 1
+realtime=0.00 usertime=0.00 kerneltime=0.00 CPU=80% i-switched=6 v-switched=1

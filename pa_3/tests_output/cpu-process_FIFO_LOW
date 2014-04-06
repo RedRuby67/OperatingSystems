@@ -1,0 +1,12 @@
+wall=0.35 user=0.32 system=0.00 CPU=93% i-switched=2 v-switched=14
+wall=0.32 user=0.30 system=0.00 CPU=92% i-switched=2 v-switched=14
+wall=0.33 user=0.30 system=0.00 CPU=91% i-switched=2 v-switched=14
+wall=0.32 user=0.29 system=0.00 CPU=90% i-switched=2 v-switched=14
+wall=0.32 user=0.29 system=0.00 CPU=93% i-switched=2 v-switched=14
+wall=0.32 user=0.29 system=0.00 CPU=91% i-switched=2 v-switched=14
+wall=0.46 user=0.43 system=0.01 CPU=97% i-switched=7 v-switched=14
+wall=0.44 user=0.40 system=0.02 CPU=95% i-switched=2 v-switched=14
+wall=0.47 user=0.41 system=0.04 CPU=96% i-switched=5 v-switched=14
+realtime=0.44 usertime=0.41 kerneltime=0.00 CPU=94% i-switched=2 v-switched=14
+realtime=0.45 usertime=0.41 kerneltime=0.01 CPU=94% i-switched=3 v-switched=14
+realtime=0.44 usertime=0.40 kerneltime=0.00 CPU=92% i-switched=2 v-switched=14

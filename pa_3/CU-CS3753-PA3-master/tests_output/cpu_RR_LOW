@@ -1,0 +1,3 @@
+realtime=0.44 usertime=0.42 kerneltime=0.00 CPU=93% i-switched=3 v-switched=14
+realtime=0.44 usertime=0.42 kerneltime=0.00 CPU=94% i-switched=1 v-switched=14
+realtime=0.44 usertime=0.42 kerneltime=0.00 CPU=95% i-switched=2 v-switched=14
